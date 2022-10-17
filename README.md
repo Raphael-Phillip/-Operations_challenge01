@@ -1,7 +1,7 @@
 README.md
 
 
-### First challenge for the mobile version with integrations and the use of animations<h3>
+### First challenge given by Rocketseat using javaScript<h3>
 <br/>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/114286800/196282488-22490c29-13cd-4845-a058-3dbc6bbc2a22.png" />
